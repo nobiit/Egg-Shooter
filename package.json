@@ -1,0 +1,9 @@
+{
+  "name": "egg-shooter",
+  "type": "2d",
+  "uuid": "03cce0ef-2c5a-4c02-bfe9-b50c7e22d98b",
+  "version": "1.0.0",
+  "creator": {
+    "version": "3.3.2"
+  }
+}
