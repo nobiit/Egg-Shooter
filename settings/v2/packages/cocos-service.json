@@ -1,13 +1,17 @@
 {
   "game": {
-    "name": "UNKNOW GAME",
-    "app_id": "UNKNOW",
+    "app_id": "663823248",
+    "name": "EggShooter",
     "c_id": "0"
   },
   "appConfigMaps": [
     {
       "app_id": "UNKNOW",
       "config_id": "b5735d"
+    },
+    {
+      "app_id": "663823248",
+      "config_id": "7178f3"
     }
   ],
   "configs": [
@@ -17,6 +21,29 @@
       "config_name": "Default",
       "config_remarks": "",
       "services": []
+    },
+    {
+      "app_id": "663823248",
+      "config_id": "43dda3",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": []
+    },
+    {
+      "app_id": "663823248",
+      "config_id": "7178f3",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": [
+        {
+          "service_id": "235",
+          "enable": true,
+          "param": {
+            "app_id": "663823248",
+            "store_id": "H5"
+          }
+        }
+      ]
     }
   ]
 }

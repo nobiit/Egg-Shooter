@@ -1,5 +1,8 @@
 # Egg Shooter
 
+## Demo
+- [Web mobile](build/web-mobile/)
+
 ## Đã làm
 - Giao diện game
 - Điểm (Chưa tính điểm được)
